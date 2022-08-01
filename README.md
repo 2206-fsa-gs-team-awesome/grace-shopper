@@ -1,5 +1,7 @@
 # Team Members
 
+## Amy Wong x2
+
 ## Evan Forde Barden
 
 ## Travis Stratton x2 - plus this
