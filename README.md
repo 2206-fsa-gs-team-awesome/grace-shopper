@@ -2,7 +2,7 @@
 
 ## Amy Wong x2
 
-## Evan Forde Barden
+## Evan Forde Barden x 2
 
 ## Travis Stratton x2 - plus this a
 
