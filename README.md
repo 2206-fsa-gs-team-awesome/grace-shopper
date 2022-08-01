@@ -1,8 +1,10 @@
 # Team Members
 
+## Amy Wong x2
+
 ## Evan Forde Barden x 2
 
-## Travis Stratton
+## Travis Stratton x2 - plus this a
 
 # FS-App-Template
 
