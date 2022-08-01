@@ -1,6 +1,10 @@
-# FS-App-Template
+# Team Members
+
+## Evan Forde Barden
 
 ## Travis Stratton
+
+# FS-App-Template
 
 ## Setup
 
